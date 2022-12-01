@@ -1,0 +1,22 @@
+export { default as ActiveLoans } from './ActiveLoans';
+export { default as Approval } from './Approval';
+export { default as Borrowers } from './Borrowers';
+export { default as Calendar } from './Calendar';
+export { default as ChurnBorrowers } from './ChurnBorrowers';
+export { default as Dashboard } from './Dashboard';
+export { default as Eligible } from './Eligible';
+export { default as LateRepayments } from './LateRepayments';
+export { default as Loan } from './Loan';
+export { default as LoanHistory } from './LoanHistory';
+export { default as Login } from './Login';
+export { default as MaturedLoans } from './MaturedLoans';
+export { default as NewBorrowers } from './NewBorrowers';
+export { default as NewLoans } from './NewLoans';
+export { default as NewUser } from './NewUser';
+export { default as RejectedLoans } from './RejectedLoans';
+export { default as SalaryHistory } from './SalaryHistory';
+export { default as SuccessfulTransactions } from './SuccessfulTransactions';
+export { default as TodoList } from './TodoList';
+export { default as UnsuccessfulTransactions } from './UnsuccessfulTransactions';
+export { default as Users } from './Users';
+
